@@ -76,7 +76,7 @@ uvicorn main:app --host 0.0.0.0 --port 8000
 streamlit run app.py
 ```
 
-##📡 API Usage & Test Drive
+## 📡 API Usage & Test Drive
 **Once the FastAPI server is running, you can test the secure endpoints using curl.**
 
 **1. Generate a New Client API Key:**
