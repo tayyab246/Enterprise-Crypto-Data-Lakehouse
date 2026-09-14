@@ -2,6 +2,8 @@
 
 A 100% free-tier, serverless data pipeline and analytics platform designed to extract, store, process, and serve multi-asset cryptocurrency metrics. This project demonstrates an end-to-end data engineering lifecycle, from automated ingestion to secure API distribution and interactive data visualization.
 
+**🟢Live Dashboard:** [Click here to view the app](https://enterprise-crypto-data-lakehouse.streamlit.app)
+
 ---
 
 ## 🏗️ System Architecture & Topography
